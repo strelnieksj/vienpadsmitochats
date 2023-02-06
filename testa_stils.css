@@ -1,7 +1,7 @@
 body{
     /*Gradient pārēju ģenerātors: https://cssgradient.io/*/
     background: rgb(5, 112, 77);
-    background: linear-gradient(90deg, rgb(19, 110, 60) 0%, rgb(19, 247, 133) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgb(19, 110, 60) 0%, rgb(14, 114, 64) 35%, rgba(0,212,255,1) 100%);
 }
 .wrapper{
     width: 600px;
